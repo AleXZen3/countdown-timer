@@ -1,5 +1,5 @@
 // Установите дату, до которой нужно вести обратный отсчет
-const targetDate = new Date("July 14, 2024 12:00:00").getTime();
+const targetDate = new Date("July 15, 2024 12:00:00").getTime();
 
 function updateCountdown() {
     const now = new Date().getTime();
